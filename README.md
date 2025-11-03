@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anton
 
-### QA Engineer from Russia
+### QA Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ant0ny-do&label=Profile views&color=0e75b6&style=flat" alt="Ant0ny-do" /> </p>
 
