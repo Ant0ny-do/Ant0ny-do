@@ -1,4 +1,3 @@
-<div align="center">
 <img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0274.gif" border="0" alt="razdelitelnaya-liniya-animatsionnaya-kartinka-0274" />
 # Hi 👋, I'm Anton
 
