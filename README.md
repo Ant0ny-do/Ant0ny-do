@@ -1,5 +1,5 @@
 <img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0274.gif" border="0" alt="razdelitelnaya-liniya-animatsionnaya-kartinka-0274" />
-# Hi 👋, I'm Anton
+<h1 align="center">Hi there, I'm Anton
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
