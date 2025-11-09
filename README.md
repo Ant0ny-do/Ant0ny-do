@@ -1,4 +1,4 @@
-<img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0274.gif" alt="razdelitelnaya-liniya-animatsionnaya-kartinka-0274" width="1000" />
+<img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0274.gif" alt="razdelitelnaya-liniya" width="1000" />
 <h1 align="center">Hi there, I'm Anton <img src="https://github.com/Ant0ny-do/Ant0ny-do/blob/main/img/Hi.gif" height="32" /></h1>
 
 <h3 align="left">Connect with me:</h3>
