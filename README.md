@@ -45,6 +45,10 @@
   <img src="img/jetbrains-original.svg" alt="jetbrains logo" height="40" />
   <img src="img/intellij-original.svg" alt="intellij logo" height="40" />
   <img src="img/pycharm-original.svg" alt="pycharm logo" height="40" />
+</div>
+
+
+<img src="https://www.codewars.com/users/Ant0ny-do/badges/large" />
   
   
   
