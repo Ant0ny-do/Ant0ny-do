@@ -54,7 +54,7 @@
   
 
 
-  
+  <div align="center">
   <img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0272.gif" alt="razdelitelnaya-liniya" width="1000" />
 
 <!--
