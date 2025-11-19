@@ -47,16 +47,16 @@
   <img src="img/pycharm-original.svg" alt="pycharm logo" height="40" />
 </div>
 
-
+###
+<div align="center">
 <img src="https://www.codewars.com/users/Ant0ny-do/badges/large" />
-  
+</div>  
   
   
 
 
-  <div align="center">
+  
   <img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0272.gif" alt="razdelitelnaya-liniya" width="1000" />
-
 <!--
 **Ant0ny-do/Ant0ny-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
