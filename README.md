@@ -55,11 +55,11 @@
 ###
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="Github contribution snake animation" src="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ant0ny-do/Ant0ny-do/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ant0ny-do/Ant0ny-do/output/dist/github-contribution-grid-snake.svg">
+    <img alt="Github contribution snake animation" src="https://raw.githubusercontent.com/Ant0ny-do/Ant0ny-do/output/dist/github-contribution-grid-snake.svg">
   </picture>
-</p>  
+</p> 
   
 
 
