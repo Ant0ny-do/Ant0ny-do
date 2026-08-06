@@ -60,6 +60,13 @@
     <img alt="Github contribution snake animation" src="https://raw.githubusercontent.com/Ant0ny-do/Ant0ny-do/output/github-contribution-grid-snake.svg">
   </picture>
 </p> 
+
+###
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=Ant0ny-do&show_icons=true&theme=noctis_minimus" alt="Anton's GitHub stats" />
+  </a>
+</p>
   
 
 
