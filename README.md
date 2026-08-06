@@ -50,6 +50,8 @@
 ###
 <div align="center">
 <img src="https://www.codewars.com/users/Ant0ny-do/badges/large" />
+![Snake animation](https://githubusercontent.com/Ant0ny-do/Ant0ny-do/output/github-contribution-grid-snake.svg)
+
 </div>  
   
   
