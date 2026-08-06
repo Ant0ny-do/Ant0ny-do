@@ -53,9 +53,13 @@
 </div>
 
 ###
-<div align="center">
-![Snake animation](https://raw.githubusercontent.com/Ant0ny-do/Ant0ny-do/output/github-contribution-grid-snake.svg)
-</div>  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="Github contribution snake animation" src="https://githubusercontent.com">
+  </picture>
+</p>  
   
 
 
